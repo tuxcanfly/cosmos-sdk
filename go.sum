@@ -295,8 +295,8 @@ github.com/cockroachdb/redact v1.1.5/go.mod h1:BVNblN9mBWFyMyqK1k3AAiSxhvhfK2oOZ
 github.com/cockroachdb/tokenbucket v0.0.0-20230807174530-cc333fc44b06 h1:zuQyyAKVxetITBuuhv3BI9cMrmStnpT18zmgmTxunpo=
 github.com/cockroachdb/tokenbucket v0.0.0-20230807174530-cc333fc44b06/go.mod h1:7nc4anLGjupUW/PeY5qiNYsdNXj7zopG+eqsS7To5IQ=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=
-github.com/cometbft/cometbft v0.38.1 h1:hflfGk/VrPapfHco3rgCqn2YpOglAqJshSdyrM2zSLk=
-github.com/cometbft/cometbft v0.38.1/go.mod h1:PIi48BpzwlHqtV3mzwPyQgOyOnU94BNBimLS2ebBHOg=
+github.com/cometbft/cometbft v0.38.4 h1:XlqIgU+RKRf8Buajt9cLP8Jhg2FnRu6pBsGZ040D32M=
+github.com/cometbft/cometbft v0.38.4/go.mod h1:kyyCNpl66hAJkiKHJzCYCwrCnZuTWqYDqhP5JPHT4FM=
 github.com/cometbft/cometbft-db v0.8.0 h1:vUMDaH3ApkX8m0KZvOFFy9b5DZHBAjsnEuo9AKVZpjo=
 github.com/cometbft/cometbft-db v0.8.0/go.mod h1:6ASCP4pfhmrCBpfk01/9E1SI29nD3HfVHrY4PG8x5c0=
 github.com/containerd/cgroups v0.0.0-20201119153540-4cbc285b3327/go.mod h1:ZJeTFisyysqgcCdecO57Dj79RfL0LNeGiFUqLYQRYLE=
@@ -1553,8 +1553,6 @@ github.com/rogpeppe/go-internal v1.11.0 h1:cWPaGQEPrBb5/AsnsZesgZZ9yb1OQ+GOISoDN
 github.com/rogpeppe/go-internal v1.11.0/go.mod h1:ddIwULY96R17DhadqLgMfk9H9tvdUzkipdSkR5nkCZA=
 github.com/rollkit/go-da v0.2.0 h1:rNpWBa2inczgZ955ky3wy8FbrMajzVbm0UfbBGzm5UE=
 github.com/rollkit/go-da v0.2.0/go.mod h1:Kef0XI5ecEKd3TXzI8S+9knAUJnZg0svh2DuXoCsPlM=
-github.com/rollkit/rollkit v0.11.19 h1:MVOHw8pYFyvSS+eFx4v3IrUQTnFKatbo/GbLG768nUI=
-github.com/rollkit/rollkit v0.11.19/go.mod h1:7qJgRT0LJCOrW5PgVUfufD09MVTvuZ4NLQAKA8Zcrak=
 github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.8.2/go.mod h1:XyqrcTp5zjWr1wsJ8PIRZssZ8b/WMcMf71DJnit4EMU=
 github.com/rs/cors v1.10.1 h1:L0uuZVXIKlI1SShY2nhFfo44TYvDPQ1w4oFkUJNfhyo=
@@ -1736,6 +1734,8 @@ github.com/tomarrell/wrapcheck/v2 v2.6.2/go.mod h1:ao7l5p0aOlUNJKI0qVwB4Yjlqutd0
 github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce/go.mod h1:o8v6yHRoik09Xen7gje4m9ERNah1d1PPsVq1VEx9vE4=
 github.com/tommy-muehle/go-mnd/v2 v2.5.0/go.mod h1:WsUAkMJMYww6l/ufffCD3m+P7LEvr8TnZn9lwVDlgzw=
 github.com/ttacon/chalk v0.0.0-20160626202418-22c06c80ed31/go.mod h1:onvgF043R+lC5RZ8IT9rBXDaEDnpnw/Cl+HFiw+v/7Q=
+github.com/tuxcanfly/rollkit v0.0.0-20240125200107-db5cc2e518be h1:aG8NDnVCNmSfevA/qXjgq0KCgjyjlIRqu5RL3F8iav4=
+github.com/tuxcanfly/rollkit v0.0.0-20240125200107-db5cc2e518be/go.mod h1:dwTVIxy5j05UYDdPbU3gtLVRpISMZMoi5EnY9MsyyKU=
 github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926/go.mod h1:9ESjWnEqriFuLhtthL60Sar/7RFoluCcXsuvEwTV5KM=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
 github.com/twitchyliquid64/golang-asm v0.15.1/go.mod h1:a1lVb/DtPvCB8fslRZhAngC2+aY1QWCk3Cedj/Gdt08=
